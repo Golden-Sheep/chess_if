@@ -1,0 +1,19 @@
+{
+  "name": "servidorjogo",
+  "version": "1.0.0",
+  "description": "servidor responsavel por gerenciar jogos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "author": "Golden-Sheep",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "chess.js": "^0.11.0",
+    "node-os-utils": "^1.3.5",
+    "socket.io": "^2.3.0"
+  }
+}
