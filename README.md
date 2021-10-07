@@ -12,3 +12,6 @@ Portas usadas:
 <li>Servidor de fila/chat -> HTTP:9090 </li>
 <li>Servidor de jogos -> HTTP:7000 </li>
 <li>Servidor principal -> HTTP:8000 (Porta padrão pelo "artisan serve")</li>
+
+
+<h3>Principais diagramas</h3>
