@@ -1,5 +1,5 @@
 Install and Run
 
 Commands: 
-npm install
+npm install <br>
 node index.js
