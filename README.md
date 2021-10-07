@@ -14,4 +14,5 @@ Portas usadas:
 <li>Servidor principal -> HTTP:8000 (Porta padrão pelo "artisan serve")</li>
 
 
-<h3>Principais diagramas</h3>
+<h3>Diagrama de Implantação</h3>
+<img src="https://github.com/Golden-Sheep/chess_if/blob/main/Diagrama%20de%20implanta%C3%A7%C3%A3o.png">
