@@ -5,3 +5,10 @@ Esse trabalho tem como objetivo planejar e desenvolver um sistema de gerenciamen
 
 <H4>Possiveis Melhorias</H4>
 <li>Aplicar uma criptografia de chave simétrica nos dados do usuário enviados para o front-end</li>
+
+<h3> Como rodar? </h3>
+Dentro de cada pasta, contém instruções de como instalar cada servidor, ligue todos os servidores para o funcionamento correto.
+Portas usadas:
+<li>Servidor de fila/chat -> HTTP:9090 </li>
+<li>Servidor de jogos -> HTTP:7000 </li>
+<li>Servidor principal -> HTTP:8000 (Porta padrão pelo "artisan serve")</li>
